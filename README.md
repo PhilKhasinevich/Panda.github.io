@@ -25,9 +25,9 @@ Student may:
   - [**ER**](https://drive.google.com/open?id=0B4IFmKbaUADBZXpONUxTRGcwZUE)
   - [**Project setup**](Project_setup.md)
   - [**File Report**](https://docs.google.com/spreadsheets/d/1-c8CGk82rwcXdZNqixlRISTnk4ozxMDtmxyJNYAd9Jw/edit#gid=1598065281)
-  - [**Git repository**](https://github.com/riftsolutions/my-golf-benchmark)
+  - [**Git Repository**](https://github.com/riftsolutions/my-golf-benchmark)
   - [**Forked Git Repository**](https://github.com/DashBouquet/my-golf-benchmark)
-  
+
 RESPONSIBILITY MATRIX
 ---------------------
 - Tech Lead, Architect @shaleynikov

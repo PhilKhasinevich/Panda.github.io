@@ -14,10 +14,10 @@ PROJECT SETUP
 - [x] Readme file has responsibility matrix //зона ответсвенности
 - [ ] Readme file has list of deliverables //итерации расписание по датам и результат
 - [ ] Readme file has a link to issues file //?? должен содержать то что обещали клиенту, и те вопросы которые мы должны решить 
-- [ ] Readme file has a link to report file //ссылка на файлик репорт (вермя работы)
+- [x] Readme file has a link to report file //ссылка на файлик репорт (вермя работы)
 - [ ] Readme file has a link to BTS file // баг трекинговая система
 - [ ] Readme file has a link to `meetings.md` file //обсудить с пашей, на следующей неделе 
-- [ ] Readme file has links to every related repository //ссылка на гит на все репозитории, сборщик, circe CI(сборщик), crashaliticts 
+- [x] Readme file has links to every related repository //ссылка на гит на все репозитории, сборщик, circe CI(сборщик), crashaliticts 
 - [x] Project docs have an ER diagram 
 - [ ] Project docs have a deployment diagram //???? backend
 
